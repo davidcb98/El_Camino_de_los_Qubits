@@ -1,7 +1,6 @@
-# Curso de Introducción a la Computación Cuántica.
+# El Camino de los Qubits.
 
-Parte del material de este curso se imparte en el [Curso de extensión universitaria en Computación Cuántica](https://quant.uma.es/curso-de-extension-universitaria-en-computacion-cuantica/
-) de la Universidad de Málaga, en los bloques 2 (Arquitecturas Cuánticas) y 3 (Algoritmos Cuánticos).
+Parte del material de este curso se imparte en el [**DIPLOMA DE EXTENSIÓN UNIVERSITARIA EN COMPUTACIÓN Y TECNOLOGÍAS CUÁNTICAS**]([https://quant.uma.es/curso-de-extension-universitaria-en-computacion-cuantica/](https://quant.uma.es/diploma-de-extension-universitaria-en-computacion-y-tecnologias-cuanticas/) de la Universidad de Málaga, en los bloques 2 (Circuitos Cuánticos) y 3 (Algoritmos Cuántico e Implementationes).
 
 ## Índice de Notebooks
 (Pinchando en los siguientes enlaces, los notebooks se abren en Google Colab)
@@ -36,3 +35,4 @@ Parte del material de este curso se imparte en el [Curso de extensión universit
 - <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_13-Grover_Algorithm.ipynb"> Algoritmo de Grover </a>
 
 - <a href="https://colab.research.google.com/github/davidcb98/CICC_UMA/blob/master/Notebooks/Part_01/Chapter_14_QKD.ipynb"> Quantum Key Distribution - BB84 </a>
+
